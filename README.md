@@ -98,7 +98,7 @@ python main.py
 
 ## Team Members
 
-- Monal A. Keskar
+- Monal A Keskar
 - Sweezal Rodrigues
 - Tejas R
 - K. P. Tejas Srinivas

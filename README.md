@@ -43,7 +43,6 @@ Driver-Alert-System/
 ├── beep.wav
 ├── README.md
 ├── requirements.txt
-└── screenshots/
 ```
 
 ---
